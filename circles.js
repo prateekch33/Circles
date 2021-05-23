@@ -174,3 +174,4 @@ function onFrame(event) {
         circles[i].scale(.9);
     }
 }
+circles.length=0;
